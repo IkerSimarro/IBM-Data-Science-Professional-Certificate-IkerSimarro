@@ -13,4 +13,4 @@ This repository contains the full analysis pipeline for the SpaceX Falcon 9 Firs
 5. **Predictive Analysis:** Classification models (SVM, Tree, KNN, LogReg).
 
 ## Final Report
-Please refer to [[Presentation.pdf](link-to-your-pdf)](https://github.com/IkerSimarro/IBM-Data-Science-Professional-Certificate-IkerSimarro/blob/main/Applied%20Data%20Science%20Capstone%20IKER%20SIMARRO.pdf) for the executive summary and results.
+Please refer to [[Applied Data Science Capstone IKER SIMARRO.pdf](https://github.com/IkerSimarro/IBM-Data-Science-Professional-Certificate-IkerSimarro/blob/main/Applied%20Data%20Science%20Capstone%20IKER%20SIMARRO.pdf)] for the executive summary and results.
