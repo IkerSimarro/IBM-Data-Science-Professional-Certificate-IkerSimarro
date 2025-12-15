@@ -1,4 +1,14 @@
-#  IBM Data Science Professional Certificate
+# IBM Data Science Capstone Project
+**Author:** Iker Simarro
+**Date:** December 15, 2025
 
+## Project Overview
+This repository contains the full analysis pipeline for the SpaceX Falcon 9 First Stage Landing Prediction project.
 
-> Data science involves extracting insights and knowledge from data through various techniques, including statistics, machine learning, and data analysis. It encompasses cleaning and processing data, exploring patterns, and building models to make predictions or uncover hidden patterns. Data scientists use programming languages like Python or R and tools like TensorFlow or scikit-learn to analyze and interpret complex datasets, helping businesses and organizations make informed decisions.
+## Contents
+1. **Data Collection:** API calls and Web Scraping.
+2. **Data Wrangling:** Cleaning and One-Hot Encoding.
+3. **EDA:** Exploratory Analysis using SQL and Visualizations.
+4. **Interactive Analytics:** Folium Maps and Plotly Dash Dashboard.
+5. **Predictive Analysis:** Classification models (SVM, Tree, KNN, LogReg).
+
