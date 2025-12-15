@@ -12,3 +12,5 @@ This repository contains the full analysis pipeline for the SpaceX Falcon 9 Firs
 4. **Interactive Analytics:** Folium Maps and Plotly Dash Dashboard.
 5. **Predictive Analysis:** Classification models (SVM, Tree, KNN, LogReg).
 
+## Final Report
+Please refer to [Presentation.pdf](link-to-your-pdf) for the executive summary and results.
